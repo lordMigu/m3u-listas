@@ -1,0 +1,22 @@
+#EXTM3U 
+
+#EXTINF:-1 tvg-id="2" tvg-name="Ecuavisa" tvg-logo="https://i.paste.pics/6a5f16a94e4d75610df34f8d397e9bf0.png", Ecuavisa | EC
+https://mdstrm.com/live-stream-playlist/603ea23f928cc5255563012c.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="4" tvg-name="RTS" tvg-logo="https://lh3.googleusercontent.com/-bo6o7DwVFAE/Xz8q7vB0FFI/AAAAAAAA4uA/mthLRxXk5IQGJ0bUv5NpLJfi-BFJWexLgCK8BGAsYHg/s0/2020-08-20.png", RTS | EC
+https://d1qovwsteln4u.cloudfront.net/hls/rts_480.m3u8
+
+#EXTINF:-1 tvg-id="7" tvg-name="Ecuador TV" tvg-logo="https://radiosecuador.sfo2.cdn.digitaloceanspaces.com/tvenvivoecuador/canal/ecuadortv.png?mtime=20190825180112&focal=none", EC-TV | EC
+
+
+#EXTINF:-1 tvg-id="10" tvg-name="TC" tvg-logo="https://www.tctelevision.com/core/img/tc2020azul.png", TCTV | EC
+https://stream-02.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAlynzNUoPnCdDK959-58DkTBabGDUPCUVyhy2znKCknI2)/dm/3/x7wijay/s/live-2.m3u8#cell=lnyc
+
+#EXTINF:-1 tvg-name="Educa TV" tvg-logo="https://lh3.googleusercontent.com/-gwVSG0Gv_VY/XzxqczgyXhI/AAAAAAAA4pA/P26xKeDaPZcrzl5WvvYymInXCZJRU3L3wCK8BGAsYHg/s0/2020-08-18.png", Educa TV | EC
+https://cloud7.streamingcnt.net/cnt/educa/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="24" tvg-name="Oromar" tvg-logo="https://i.paste.pics/010ca0a9773846841e4f318001dbe0ab.png", Oromar | EC
+https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="30" tvg-name="RTU TV" tvg-logo="https://lh3.googleusercontent.com/--hZG0lvme_Y/Xzh9ardddaI/AAAAAAAA4dM/AORf7MfGAWEs0RYqXjxBU3WhYKdjCS2wACK8BGAsYHg/s0/2020-08-15.png", RTU TV | EC
+https://streamingwowza.com:1936/rtutv/rtutv/playlist.m3u8?PlaylistM3UCL
