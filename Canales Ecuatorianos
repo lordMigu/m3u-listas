@@ -1,13 +1,13 @@
 #EXTM3U 
 
+#EXTINF:-1 tvg-id="7" tvg-name="Ecuador TV" tvg-logo="https://radiosecuador.sfo2.cdn.digitaloceanspaces.com/tvenvivoecuador/canal/ecuadortv.png?mtime=20190825180112&focal=none", EC-TV | EC
+https://customer-qczi39xffvq35rae.cloudflarestream.com/90ec066cd7fd2ad45bc19a95ae6ae593/audio/128/seg_1494.mp4?p=eyJ0eXBlIjoic2VnbWVudCIsInZpZGVvSUQiOiI5MGVjMDY2Y2Q3ZmQyYWQ0NWJjMTlhOTVhZTZhZTU5MyIsIm93bmVySUQiOjY0ODk1NDQsImNyZWF0b3JJRCI6IiIsInNlZ21lbnREdXJhdGlvblNlY3MiOjguMzMyLCJ1c2VWT0RPVEZFIjpmYWxzZSwiZnJvbU1lenphbmluZSI6ZmFsc2UsInRyYWNrIjoiMiIsInJlbmRpdGlvbiI6Ijk5OTk5OTk5OSIsIm11eGluZyI6IjEyOCIsImxpdmVTb3VyY2VJRCI6ImY0MWMxZDkxZTE3ODA5ZGFmM2JjNGE2YzIxMjY4MGI3In0&s=ICRkwrEYfMK-wq15FCUHw47Dp8O2w5AFf8KPwqANEcOLFxTCpiQrZ8OsJsKC&CMCD=bl%3D24300%2Ccid%3D%22Cloudflare%20Stream%20Player%22%2Cd%3D8333%2Cmtp%3D10400%2Cot%3Da%2Csf%3Dh%2Csid%3D%226ce4b81e-3291-4225-8673-028b937dce35%22%2Cst%3Dl
+
 #EXTINF:-1 tvg-id="2" tvg-name="Ecuavisa" tvg-logo="https://i.paste.pics/6a5f16a94e4d75610df34f8d397e9bf0.png", Ecuavisa | EC
 https://mdstrm.com/live-stream-playlist/603ea23f928cc5255563012c.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="4" tvg-name="RTS" tvg-logo="https://lh3.googleusercontent.com/-bo6o7DwVFAE/Xz8q7vB0FFI/AAAAAAAA4uA/mthLRxXk5IQGJ0bUv5NpLJfi-BFJWexLgCK8BGAsYHg/s0/2020-08-20.png", RTS | EC
 https://d1qovwsteln4u.cloudfront.net/hls/rts_480.m3u8
-
-#EXTINF:-1 tvg-id="7" tvg-name="Ecuador TV" tvg-logo="https://radiosecuador.sfo2.cdn.digitaloceanspaces.com/tvenvivoecuador/canal/ecuadortv.png?mtime=20190825180112&focal=none", EC-TV | EC
-
 
 #EXTINF:-1 tvg-id="10" tvg-name="TC" tvg-logo="https://www.tctelevision.com/core/img/tc2020azul.png", TCTV | EC
 https://stream-02.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAlynzNUoPnCdDK959-58DkTBabGDUPCUVyhy2znKCknI2)/dm/3/x7wijay/s/live-2.m3u8#cell=lnyc
